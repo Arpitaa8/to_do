@@ -18,4 +18,4 @@ You may also see any lint errors in the console.
 
 We can add our task by writting it in the placeholder.\
 To Update it use the Pen icon, and to delete it the Trash icon.\ 
-If we want to mark it as done, then click on the task completed. It'll be marked done by strikethrough text and will be visible.\
+If we want to mark it as done, then click on the task completed. It'll be marked done by strikethrough text and will be visible.
